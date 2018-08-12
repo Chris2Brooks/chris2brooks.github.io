@@ -1,0 +1,26 @@
+﻿/* ME */
+
+	Chris Brooks - Digital Marketing Specialist & Customer Technical Support Champion
+	chris.brooks@vervini.com
+	Twitter: @Chris2Brooks
+	LinkedIn: /in/chris2brooks
+
+/* THANKS */
+
+	Github
+	Twitter: @github
+	Thanks to the team at Github for the amazing platform, but specifically for Github Pages, which this site is hosted on. 
+	To learn more about Github Pages, visit https://pages.github.com/
+
+	Rob Hope - One Page Love
+	Twitter: @RobHope / @OnePageLove
+	Amazing resource for one page websites and free templates. To see the template behind this website, check out https://onepagelove.com/split
+		
+
+/* SITE */
+	Last update: August 2018
+	Language: English
+	Doctype: HTML5, CSS
+	Hosting: Github Pages
+	IDE: Sublime Text
+	Analytics: Google, Hotjar
